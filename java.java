@@ -5,3 +5,6 @@ public class Test(){
 		System.out.println("helloworld");
 	}
 }
+class Man(){
+	int a =0;
+}
