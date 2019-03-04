@@ -8,4 +8,5 @@ public class Test(){
 class Man(){
 	int a = 0;
 	int b = 1;
+	String name ="张三";
 }
